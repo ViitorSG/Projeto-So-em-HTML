@@ -1,0 +1,42 @@
+body{
+	font: 16px Arial, Helvetica, sans-serif;
+	background: #d2d2c1 url('imagens/fundo.png');
+}
+
+#principal{
+	width: 900px;
+}
+
+#menu{
+	background-color: #c5c5b2;
+	padding: 15px;
+}
+
+#sobre{
+	background: #e8e8d9;
+	padding: 10px;
+	
+}
+
+#footer{
+	text-align: center;
+}
+
+.links{
+	font-family: "Lucida Console", Arial, serif;
+	font-weight: bold;
+	color: #3f5470;
+	text-decoration: none;
+	padding: 5px
+	;
+}
+
+h1{
+	color: #828271;
+	font-size: 1.2em;
+}
+
+.publi{
+
+	border: 10px solid  #c3c3ae;
+}
